@@ -1,5 +1,3 @@
-const { act } = require("react-dom/test-utils")
-
 const INITIAL_STATE = {
     currentUser: null
 }
